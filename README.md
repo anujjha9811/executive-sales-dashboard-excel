@@ -2,7 +2,7 @@
 
 An Excel dashboard that shows sales and profit for a European outdoor and fitness gear business in 2026.
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ## About the data
 
